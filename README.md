@@ -1,3 +1,7 @@
+This article was written to be on a forms page for PurpleAir. I cannot share the page but I can share the article I wrote for it. Since it had to be transferred to here, this version has not been proof-read for consistency in style. The articles begins after the next line.
+
+---
+
 # Making API Calls with the PurpleAir API
 
 This guide will help you understand the basics of sending HTTP requests and making API calls. This article assumes a basic knowledge of programming.

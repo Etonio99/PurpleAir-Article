@@ -1,4 +1,4 @@
-This article was written to be on a forms page for PurpleAir. I cannot share the page but I can share the article I wrote for it. Since it had to be transferred to here, this version has not been proof-read for consistency in style. The article begins after the next line.
+This article was written to be on a forms page for PurpleAir. I cannot share the page but I can share the article I wrote for it. Since it had to be transferred to here, this version has not been proof-read for consistency in style. The information is based on the API from api.purpleair.com. The article begins after the next line.
 
 ---
 
